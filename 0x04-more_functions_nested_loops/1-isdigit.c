@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isupper - check if c is upper
+ * _isupper - check if input is digit between 0 - 9
  *
  * @c: input for alphabet
  *
